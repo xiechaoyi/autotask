@@ -1,2 +1,3 @@
-﻿http://iserver.t0.daoapp.io:61349
+﻿http://clr-demo.daoapp.io
+http://iserver.t0.daoapp.io:61349
 http://website.t0.daoapp.io:61348
