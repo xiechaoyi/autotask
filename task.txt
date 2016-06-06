@@ -1,4 +1,4 @@
-﻿http://clr-demo.daoapp.io
-http://iserver.t0.daoapp.io:61349
-http://website.t0.daoapp.io:61348
-http://service.t0.daoapp.io:61353
+﻿http://toyou.daoapp.io
+http://toyou-control.daoapp.io
+http://cashier.daoapp.io
+http://cashier-control.daoapp.io
