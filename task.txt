@@ -1,4 +1,6 @@
-﻿http://toyou.daoapp.io
-http://toyou-control.daoapp.io
+﻿http://wlniao.com
+http://control.wlniao.com
+http://iplus.ren
+http://control.iplus.ren
 http://cashier.daoapp.io
 http://cashier-control.daoapp.io
